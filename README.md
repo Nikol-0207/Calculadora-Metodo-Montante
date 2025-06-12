@@ -1,4 +1,3 @@
-# Calculadora-Metodo-Montante
 Este proyecto implementa una interfaz web para resolver sistemas de ecuaciones lineales utilizando el **Método Montante**, un método matricial eficiente que evita fracciones y permite calcular la solución exacta, la inversa de una matriz y su determinante.
 ## 📌 Características
 
